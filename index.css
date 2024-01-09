@@ -51,7 +51,7 @@
 
 /* 1 container */
 .cont-1{
-    background-image: url(/image/banner.jpg);
+    background-image: url(./image/banner.jpg);
     background-size: cover;
     background-position: center;
     /* background-attachment: fixed; */
@@ -190,7 +190,7 @@
 
 /* third container  */
 .third-cont-1{
-    background-image: url(/image/special_menu_bg.jpg);
+    background-image: url(./image/special_menu_bg.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -333,7 +333,7 @@
 
 /*   fifth container   */
 .fifth{
-    background-image: url(/image/team_bg.jpg);
+    background-image: url(./image/team_bg.jpg);
     
     background-size: cover;
     /* background-repeat: no-repeat; */
@@ -403,7 +403,7 @@
 }
 
 .cont-sev{
-    background-image:url(/image/team_bg.jpg) ;
+    background-image:url(./image/team_bg.jpg) ;
     background-position: center;
     z-index: 0;
     background-size: cover;
@@ -519,7 +519,7 @@
 
 /* 9 container */
 .nin-cont{
-    background-image: url(/image/newsletter-bg.jpg);
+    background-image: url(./image/newsletter-bg.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -568,7 +568,7 @@
 
 /* ten container  */
 .ten-cont{
-    background-image: url(/image/gallery_06.jpg);
+    background-image: url(./image/gallery_06.jpg);
     background-position: center;
     background-size: cover;
     
