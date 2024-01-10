@@ -41,10 +41,11 @@
     color: #fff;
 }
 
-.nav-btn{
+.nav-btn a{
     font-weight: 600;
     text-transform: capitalize;
     color: #d35400;
+    text-decoration: none;
 }
 
 
@@ -52,7 +53,7 @@
 /* 1 container */
 .cont-1{
     /* background-image: url(./image/banner.jpg); */
-    background-image: url(./image/banner.jpg);
+    background-image: url(/project-1/image/banner.jpg);
    
     background-size: cover;
     background-position: center;
