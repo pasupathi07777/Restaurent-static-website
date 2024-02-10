@@ -7,7 +7,7 @@ burger.addEventListener("click",()=>{
    
 })
 close_button.addEventListener("click",()=>{
-    sidenabar.style.left="-35%"
+    sidenabar.style.left="-200px"
    
 })
 
